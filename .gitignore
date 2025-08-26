@@ -1,0 +1,32 @@
+# Build directories
+build/
+*/build/
+*.pro.user
+*.autosave
+
+# Executables
+SCi.exe
+SCi
+
+# Qt Creator
+*.user
+*.user.*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
