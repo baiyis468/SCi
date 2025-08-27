@@ -25,6 +25,12 @@
 - Qt 6.x
 - CMake 3.16+
 
+### 构建前提
+
+在CloudDatabaseManager里面补充完整常量，即提供你的服务器相关信息
+在Photos文件夹，用你实际的地图图片来代替MainSchoolMap.jpg
+需要你的环境支持MySQL
+
 ### 构建命令
 
 ```bash
